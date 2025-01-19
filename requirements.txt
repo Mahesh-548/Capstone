@@ -1,0 +1,8 @@
+opencv-python
+mediapipe
+pyautogui
+streamlit
+threading
+time
+
+
